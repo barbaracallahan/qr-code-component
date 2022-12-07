@@ -5,12 +5,6 @@ This is a simple project with HTML and CSS. The objective was to create a landin
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
-
-- [Built with](#built-with)
-- [Author](#author)
-
-
 ### Built with
 
 - Semantic HTML5 markup
